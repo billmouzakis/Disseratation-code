@@ -1,5 +1,1 @@
-Here you can the see the the code of my dissertation in R programming language.
-
-
-
-This is my dissertation. I took covid-19 data and I applied multiviarable statistical methods in order to extract some insights
+In this reposity you can see the code of my dissertation in R programming language. More specigically, I took Covid19 data for many countries around the world in the time between 2020 and 2022 and I used it in order to see how Covid19 hit these countries in a epidemiologically way. Also, I saw a difference in the hit of Covid19 in some countries. In this project I used Principal Component Analysis and Cluster Analysis.
